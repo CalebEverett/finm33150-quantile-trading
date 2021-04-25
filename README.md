@@ -1,4 +1,5 @@
 [![build status](https://github.com/CalebEverett/finm33150-quantile-trading/actions/workflows/build.yml/badge.svg)](https://github.com/CalebEverett/finm33150-quantile-trading/actions/workflows/build.yml)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/CalebEverett/finm33150-quantile-trading/blob/master/quantile_trading.ipynb)
 
 # FINM33150 - Quantile Trading
 
